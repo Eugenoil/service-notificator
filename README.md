@@ -1,3 +1,3 @@
 # service-notificator
 
-Notifies lid in Telegram if somebody from team wouldn't tracked
+Notifies team-lead in Telegram if somebody from team wouldn't tracked
